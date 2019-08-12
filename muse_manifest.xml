@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Weighbridge.co.za" resolutions="1x" timestamp="1555568617319">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Weighbridge.co.za" resolutions="1x" timestamp="1565600877929">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4151111682" ref="index"/>
+    <file name="index.css" crc="3929854433" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -10,27 +10,56 @@
     <file name="museconfig.js" crc="4286661555" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
   </folder>
   <folder name="images">
     <file name="background copy 2.png" crc="3788353925" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u147-8.png" crc="448764595" ref="index"/>
-    <file name="u154-4.png" crc="308126627" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u209_states.png" crc="3894979399" ref="index"/>
-    <file name="u209_states-r.png" crc="4273181412" ref="index"/>
-    <file name="u209_states-m.png" crc="4273181412" ref="index"/>
-    <file name="u164_states.png" crc="387055347" ref="index"/>
-    <file name="u164_states-r.png" crc="153435704" ref="index"/>
-    <file name="u182_states.png" crc="521466178" ref="index"/>
-    <file name="u182_states-r.png" crc="4087238744" ref="index"/>
-    <file name="u176_states.png" crc="162145840" ref="index"/>
-    <file name="u176_states-r.png" crc="167270545" ref="index"/>
-    <file name="u188_states.png" crc="4154984769" ref="index"/>
-    <file name="u188_states-r.png" crc="3918289930" ref="index"/>
-    <file name="u197_states.png" crc="4029606576" ref="index"/>
-    <file name="u197_states-r.png" crc="4255966566" ref="index"/>
+    <file name="u236-6.png" crc="457841496" ref="index"/>
+    <file name="u286_states.png" crc="409171736" ref="index"/>
+    <file name="u286_states-r.png" crc="186783582" ref="index"/>
+    <file name="u286_states-m.png" crc="186783582" ref="index"/>
+    <file name="u282-4.png" crc="9708" ref="index"/>
+    <file name="u164_states.png" crc="4276579180" ref="index"/>
+    <file name="u164_states-r.png" crc="3894195042" ref="index"/>
+    <file name="u182_states.png" crc="504875578" ref="index"/>
+    <file name="u182_states-r.png" crc="522895462" ref="index"/>
+    <file name="u176_states.png" crc="368920566" ref="index"/>
+    <file name="u176_states-r.png" crc="196222039" ref="index"/>
+    <file name="u188_states.png" crc="3788875559" ref="index"/>
+    <file name="u188_states-r.png" crc="4035311439" ref="index"/>
+    <file name="u197_states.png" crc="233196034" ref="index"/>
+    <file name="u197_states-r.png" crc="280435098" ref="index"/>
+    <file name="banner-u237-fr.png" crc="4159451316" ref="index"/>
+    <file name="trans-crop-u264.png" crc="4285820672" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trans-crop-u262.png" crc="4285820672" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u277-8.png" crc="3784243743" ref="index"/>
+    <file name="u276-4.png" crc="478515712" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="henry-perks-382455-unsplash.jpg" crc="4166102060" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u235-4.png" crc="4103273048" ref="index"/>
+    <file name="u241_states.png" crc="53713108" ref="index"/>
+    <file name="u241_states-r.png" crc="404388303" ref="index"/>
+    <file name="u241_states-m.png" crc="404388303" ref="index"/>
+    <file name="milada-vigerova-31418-unsplash.jpg" crc="352978983" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u288-4.png" crc="378133054" ref="index"/>
+    <file name="u247_states.png" crc="238425661" ref="index"/>
+    <file name="u247_states-r.png" crc="3876725002" ref="index"/>
+    <file name="u247_states-m.png" crc="3876725002" ref="index"/>
   </folder>
-  <file name="index.html" crc="12389303" seo="true" mt="1555568584416" redirect="true"/>
+  <file name="index.html" crc="409571494" seo="true" mt="1565600877276" redirect="true"/>
 </manifest>

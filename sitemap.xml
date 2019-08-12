@@ -2,11 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://Weighbridge.co.za/index.html</loc>
-    <lastmod>2019-04-18</lastmod>
+    <lastmod>2019-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://Weighbridge.co.za/images/background%20copy%202.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Weighbridge.co.za/images/trans-crop-u264.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Weighbridge.co.za/images/trans-crop-u262.png</image:loc>
     </image:image>
   </url>
 </urlset>
